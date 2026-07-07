@@ -10,6 +10,8 @@ jobs:
   screener:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout código
@@ -36,6 +38,14 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python screener.py --cloud
+
+      - name: Publicar dashboard en GitHub Pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html || true
+          git diff --cached --quiet || git commit -m "dashboard: update $(date -u +'%Y-%m-%d')"
+          git push origin HEAD
 
       - name: Subir Excel como artefacto
         if: always()

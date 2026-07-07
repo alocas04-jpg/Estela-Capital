@@ -533,11 +533,13 @@ def find_global_candidates(
             info = tk.info or {}
             sig = cand["signals"]
 
-            # Price 1 month ago
+            # Price 1 month ago + full year history for sparkline
             try:
-                hist = tk.history(period="2mo", interval="1d")
+                hist = tk.history(period="1y", interval="1d")
                 if len(hist) >= 22:
                     sig["price_1m_ago"] = round(float(hist["Close"].iloc[-22]), 2)
+                if len(hist) > 10:
+                    sig["price_history"] = [round(float(p), 2) for p in hist["Close"].tolist()]
             except Exception:
                 pass
 
