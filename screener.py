@@ -2260,16 +2260,6 @@ def main():
             output_path = OUTPUT_DIR / f"screener_output_{today}_{counter}.xlsx"
             counter += 1
 
-    # --- Web dashboard (GitHub Pages) ---
-    try:
-        docs_dir = BASE_DIR / "docs"
-        docs_dir.mkdir(exist_ok=True)
-        dashboard_html = generate_web_dashboard(results, proposed, today)
-        (docs_dir / "index.html").write_text(dashboard_html, encoding="utf-8")
-        print(f"\n[OK] Dashboard web generado en: docs/index.html")
-    except Exception as _dash_err:
-        print(f"\n[WARN] Dashboard web falló: {_dash_err}")
-
     # Resumen
     vale_investigar = [r for r in results if r.get("moat", {}).get("vale_investigar") is True]
     print(f"\n{'='*60}")
@@ -2289,6 +2279,16 @@ def main():
             print(f"\n  [{len(proposed)} empresa(s) propuesta(s) pendientes de confirmacion]")
             for p in proposed:
                 print(f"    ? {p['nombre']} ({p['ticker_yahoo']}) — {p['moat_type']} | {p.get('moat_strength','')}")
+
+    # --- Web dashboard (GitHub Pages) ---
+    try:
+        docs_dir = BASE_DIR / "docs"
+        docs_dir.mkdir(exist_ok=True)
+        dashboard_html = generate_web_dashboard(results, proposed, today)
+        (docs_dir / "index.html").write_text(dashboard_html, encoding="utf-8")
+        print(f"\n[OK] Dashboard web generado en: docs/index.html")
+    except Exception as _dash_err:
+        print(f"\n[WARN] Dashboard web falló: {_dash_err}")
 
     # Enviar email
     if not args.skip_moat:
