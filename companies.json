@@ -1,0 +1,3219 @@
+[
+  {
+    "name": "Diageo PLC",
+    "ticker": "DGE",
+    "exchange": "XLON",
+    "sector": "beverages",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Diageo",
+    "trends_keywords": [
+      "Guinness",
+      "Johnnie Walker",
+      "Baileys",
+      "Smirnoff"
+    ],
+    "insider_screener_slug": "diageo-plc",
+    "competitors": [
+      {
+        "ticker": "RI",
+        "exchange": "XPAR",
+        "name": "Pernod Ricard"
+      },
+      {
+        "ticker": "BF-B",
+        "exchange": "XNYS",
+        "name": "Brown-Forman"
+      },
+      {
+        "ticker": "HEIA",
+        "exchange": "XAMS",
+        "name": "Heineken"
+      },
+      {
+        "ticker": "RCO",
+        "exchange": "XPAR",
+        "name": "Remy Cointreau"
+      }
+    ]
+  },
+  {
+    "name": "Douglas AG",
+    "ticker": "DOU",
+    "exchange": "XETR",
+    "sector": "beauty_retail",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Douglas perfumery",
+    "trends_keywords": [
+      "Dior",
+      "Chanel",
+      "YSL",
+      "Lancome"
+    ],
+    "search_keywords": [
+      "Douglas cosmetics",
+      "Douglas beauty retail"
+    ],
+    "related_markets": [
+      "fragrance-market-coty_overview"
+    ],
+    "insider_screener_slug": "douglas-ag",
+    "competitors": [
+      {
+        "ticker": "ULTA",
+        "exchange": "XNAS",
+        "name": "Ulta Beauty"
+      },
+      {
+        "ticker": "SBH",
+        "exchange": "XNYS",
+        "name": "Sally Beauty"
+      },
+      {
+        "ticker": "4911",
+        "exchange": "XTKS",
+        "name": "Shiseido"
+      }
+    ]
+  },
+  {
+    "name": "Sika Ltd",
+    "ticker": "SIKA",
+    "exchange": "XSWX",
+    "sector": "specialty_chemicals",
+    "list": "portfolio",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Sika construction chemicals",
+      "Sika adhesives"
+    ],
+    "insider_screener_slug": "sika-ag",
+    "competitors": [
+      {
+        "ticker": "RPM",
+        "exchange": "XNYS",
+        "name": "RPM International"
+      },
+      {
+        "ticker": "SGO",
+        "exchange": "XPAR",
+        "name": "Saint-Gobain"
+      },
+      {
+        "ticker": "BAS",
+        "exchange": "XETR",
+        "name": "BASF"
+      }
+    ]
+  },
+  {
+    "name": "Burberry Group PLC",
+    "ticker": "BRBY",
+    "exchange": "XLON",
+    "sector": "luxury_fashion",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Burberry",
+    "trends_keywords": [
+      "Burberry",
+      "Gucci",
+      "Louis Vuitton",
+      "Prada",
+      "Coach"
+    ],
+    "insider_screener_slug": "burberry-group-plc",
+    "competitors": [
+      {
+        "ticker": "KER",
+        "exchange": "XPAR",
+        "name": "Kering"
+      },
+      {
+        "ticker": "MC",
+        "exchange": "XPAR",
+        "name": "LVMH"
+      },
+      {
+        "ticker": "SFER",
+        "exchange": "XMIL",
+        "name": "Salvatore Ferragamo"
+      },
+      {
+        "ticker": "TPR",
+        "exchange": "XNYS",
+        "name": "Tapestry"
+      }
+    ],
+    "related_markets": [
+      "burberry_store-count"
+    ]
+  },
+  {
+    "name": "Prada SpA",
+    "ticker": "1913",
+    "exchange": "XHKG",
+    "sector": "luxury_fashion",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Prada",
+    "trends_keywords": [
+      "Prada",
+      "Gucci",
+      "Louis Vuitton",
+      "Hermès",
+      "Miu Miu"
+    ],
+    "search_keywords": [
+      "Prada",
+      "Miu Miu",
+      "Church's shoes"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "MC",
+        "exchange": "XPAR",
+        "name": "LVMH"
+      },
+      {
+        "ticker": "KER",
+        "exchange": "XPAR",
+        "name": "Kering"
+      },
+      {
+        "ticker": "RMS",
+        "exchange": "XPAR",
+        "name": "Hermes"
+      },
+      {
+        "ticker": "MONC",
+        "exchange": "XMIL",
+        "name": "Moncler"
+      }
+    ]
+  },
+  {
+    "name": "Li Ning Company Limited",
+    "ticker": "2331",
+    "exchange": "XHKG",
+    "sector": "sportswear",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Li Ning",
+    "trends_keywords": [
+      "Li Ning",
+      "Anta Sports",
+      "Nike China",
+      "Xtep",
+      "361 Degrees"
+    ],
+    "search_keywords": [
+      "Li-Ning sportswear",
+      "Li Ning"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "2020",
+        "exchange": "XHKG",
+        "name": "Anta Sports"
+      },
+      {
+        "ticker": "NKE",
+        "exchange": "XNYS",
+        "name": "Nike"
+      },
+      {
+        "ticker": "ADS",
+        "exchange": "XETR",
+        "name": "Adidas"
+      },
+      {
+        "ticker": "1368",
+        "exchange": "XHKG",
+        "name": "Xtep"
+      }
+    ]
+  },
+  {
+    "name": "JCDecaux SE",
+    "ticker": "DEC",
+    "exchange": "XPAR",
+    "sector": "outdoor_advertising",
+    "list": "portfolio",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "JCDecaux",
+      "JCDecaux outdoor advertising"
+    ],
+    "related_markets": [
+      "cpm-advertising-channels_overview",
+      "ooh-pe-deals_deals",
+      "jcdecaux-lease-maturity_overview",
+      "jcdecaux-contract-breakdown_overview"
+    ],
+    "insider_screener_slug": "jcdecaux-sa",
+    "competitors": [
+      {
+        "ticker": "SAX",
+        "exchange": "XETR",
+        "name": "Stroeer"
+      },
+      {
+        "ticker": "CCO",
+        "exchange": "XNYS",
+        "name": "Clear Channel"
+      },
+      {
+        "ticker": "LAMR",
+        "exchange": "XNAS",
+        "name": "Lamar Advertising"
+      }
+    ]
+  },
+  {
+    "name": "Stroeer SE & Co KGaA",
+    "ticker": "SAX",
+    "exchange": "XETR",
+    "sector": "outdoor_advertising",
+    "list": "portfolio",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Stroeer",
+      "Ströer"
+    ],
+    "related_markets": [
+      "stroer_overview",
+      "stroer_programmatic_ooh_overview",
+      "germany-digital-dialog-marketing_overview",
+      "cpm-advertising-channels_overview",
+      "ooh-pe-deals_deals",
+      "stroeer-lease-maturity_overview",
+      "stroeer-contract-breakdown_overview"
+    ],
+    "insider_screener_slug": "stroeer-se-co-kgaa",
+    "competitors": [
+      {
+        "ticker": "DEC",
+        "exchange": "XPAR",
+        "name": "JCDecaux"
+      },
+      {
+        "ticker": "CCO",
+        "exchange": "XNYS",
+        "name": "Clear Channel"
+      },
+      {
+        "ticker": "LAMR",
+        "exchange": "XNAS",
+        "name": "Lamar Advertising"
+      }
+    ]
+  },
+  {
+    "name": "Sysmex Corporation",
+    "ticker": "SSMXY",
+    "exchange": "OTCM",
+    "sector": "medical_diagnostics",
+    "list": "portfolio",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Sysmex",
+      "Sysmex diagnostics",
+      "Sysmex hematology"
+    ],
+    "related_markets": [
+      "china-medtech_overview"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "BDX",
+        "exchange": "XNYS",
+        "name": "Becton Dickinson"
+      },
+      {
+        "ticker": "DHR",
+        "exchange": "XNYS",
+        "name": "Danaher"
+      },
+      {
+        "ticker": "BIO",
+        "exchange": "XNYS",
+        "name": "Bio-Rad"
+      }
+    ]
+  },
+  {
+    "name": "Health and Happiness (H&H) International",
+    "ticker": "1112",
+    "exchange": "XHKG",
+    "sector": "health_nutrition",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Swisse",
+    "trends_keywords": [
+      "Swisse",
+      "Biostime",
+      "Aurelia"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "A2M",
+        "exchange": "XASX",
+        "name": "A2 Milk"
+      },
+      {
+        "ticker": "BKL",
+        "exchange": "XASX",
+        "name": "Blackmores"
+      },
+      {
+        "ticker": "6186",
+        "exchange": "XHKG",
+        "name": "China Feihe"
+      }
+    ]
+  },
+  {
+    "name": "Zoetis Inc.",
+    "ticker": "ZTS",
+    "exchange": "XNYS",
+    "sector": "animal_health",
+    "list": "portfolio",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Zoetis",
+      "Zoetis animal health"
+    ],
+    "insider_screener_slug": "zoetis-inc",
+    "competitors": [
+      {
+        "ticker": "IDXX",
+        "exchange": "XNAS",
+        "name": "IDEXX Labs"
+      },
+      {
+        "ticker": "ELAN",
+        "exchange": "XNYS",
+        "name": "Elanco"
+      },
+      {
+        "ticker": "DPH",
+        "exchange": "XLON",
+        "name": "Dechra Pharma"
+      }
+    ]
+  },
+  {
+    "name": "Morinaga & Co. Ltd.",
+    "ticker": "MGAAF",
+    "exchange": "OTCM",
+    "sector": "food_confectionery",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Morinaga",
+    "trends_keywords": [
+      "Morinaga",
+      "Hi-Chew",
+      "DARS",
+      "Morinaga Milk Caramel",
+      "Chocoball"
+    ],
+    "search_keywords": [
+      "Morinaga",
+      "Hi-Chew"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "2269",
+        "exchange": "XTKS",
+        "name": "Meiji Holdings"
+      },
+      {
+        "ticker": "2206",
+        "exchange": "XTKS",
+        "name": "Ezaki Glico"
+      },
+      {
+        "ticker": "2229",
+        "exchange": "XTKS",
+        "name": "Calbee"
+      }
+    ]
+  },
+  {
+    "name": "Coty Inc.",
+    "ticker": "COTY",
+    "exchange": "XNYS",
+    "sector": "beauty",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Coty",
+    "trends_keywords": [
+      "Rimmel",
+      "CoverGirl",
+      "Sally Hansen",
+      "Max Factor"
+    ],
+    "related_markets": [
+      "fragrance-market-coty_overview",
+      "perfume_ma_mindmap"
+    ],
+    "insider_screener_slug": "coty-inc",
+    "competitors": [
+      {
+        "ticker": "EL",
+        "exchange": "XNYS",
+        "name": "Estee Lauder"
+      },
+      {
+        "ticker": "IPAR",
+        "exchange": "XNAS",
+        "name": "Inter Parfums"
+      },
+      {
+        "ticker": "ELF",
+        "exchange": "XNYS",
+        "name": "e.l.f. Beauty"
+      }
+    ]
+  },
+  {
+    "name": "Carl Zeiss Meditec AG",
+    "ticker": "AFX",
+    "exchange": "XETR",
+    "sector": "medical_technology",
+    "list": "portfolio",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Carl Zeiss",
+      "ZEISS",
+      "Zeiss Meditec"
+    ],
+    "related_markets": [
+      "china-medtech_overview",
+      "eurofins-tic-market_overview"
+    ],
+    "insider_screener_slug": "carl-zeiss-meditec-ag",
+    "competitors": [
+      {
+        "ticker": "ALC",
+        "exchange": "XSWX",
+        "name": "Alcon"
+      },
+      {
+        "ticker": "COO",
+        "exchange": "XNYS",
+        "name": "Cooper Companies"
+      },
+      {
+        "ticker": "7741",
+        "exchange": "XTKS",
+        "name": "Hoya Corp"
+      }
+    ]
+  },
+  {
+    "name": "CSL Limited",
+    "ticker": "CSL",
+    "exchange": "XASX",
+    "sector": "biopharmaceuticals",
+    "list": "portfolio",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "CSL Behring",
+      "Seqirus",
+      "Vifor Pharma"
+    ],
+    "related_markets": [
+      "china-medtech_overview"
+    ],
+    "insider_screener_slug": "csl-limited",
+    "competitors": [
+      {
+        "ticker": "GRF",
+        "exchange": "BMEX",
+        "name": "Grifols"
+      },
+      {
+        "ticker": "4502",
+        "exchange": "XTKS",
+        "name": "Takeda"
+      },
+      {
+        "ticker": "BIM",
+        "exchange": "XPAR",
+        "name": "BioMerieux"
+      }
+    ]
+  },
+  {
+    "name": "B&M European Value Retail SA",
+    "ticker": "BME",
+    "exchange": "XLON",
+    "sector": "value_retail",
+    "list": "portfolio",
+    "tags": [
+      "consumer"
+    ],
+    "search_keywords": [
+      "B&M Bargains",
+      "B&M retail",
+      "Heron Foods"
+    ],
+    "insider_screener_slug": "b-m-european-value-retail-sa",
+    "competitors": [
+      {
+        "ticker": "DOL",
+        "exchange": "XTSE",
+        "name": "Dollarama"
+      },
+      {
+        "ticker": "DG",
+        "exchange": "XNYS",
+        "name": "Dollar General"
+      },
+      {
+        "ticker": "PCO",
+        "exchange": "XWAR",
+        "name": "Pepco Group"
+      }
+    ]
+  },
+  {
+    "name": "Puig Brands SA",
+    "ticker": "PUIG",
+    "exchange": "BMEX",
+    "sector": "luxury_beauty",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Puig",
+    "trends_keywords": [
+      "Charlotte Tilbury",
+      "Rabanne",
+      "Carolina Herrera",
+      "Jean Paul Gaultier"
+    ],
+    "related_markets": [
+      "fragrance-market-coty_overview"
+    ],
+    "insider_screener_slug": "puig-brands-sa",
+    "competitors": [
+      {
+        "ticker": "IPAR",
+        "exchange": "XNAS",
+        "name": "Inter Parfums"
+      },
+      {
+        "ticker": "COTY",
+        "exchange": "XNYS",
+        "name": "Coty"
+      },
+      {
+        "ticker": "OR",
+        "exchange": "XPAR",
+        "name": "L'Oreal"
+      }
+    ]
+  },
+  {
+    "name": "Baxter International Inc.",
+    "ticker": "BAX",
+    "exchange": "XNYS",
+    "sector": "healthcare",
+    "list": "portfolio",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Baxter International",
+      "Baxter Healthcare",
+      "Hillrom"
+    ],
+    "insider_screener_slug": "baxter-international-inc",
+    "competitors": [
+      {
+        "ticker": "FME",
+        "exchange": "XETR",
+        "name": "Fresenius Medical"
+      },
+      {
+        "ticker": "BDX",
+        "exchange": "XNYS",
+        "name": "Becton Dickinson"
+      },
+      {
+        "ticker": "EW",
+        "exchange": "XNYS",
+        "name": "Edwards Lifesciences"
+      }
+    ]
+  },
+  {
+    "name": "JD Sports Fashion PLC",
+    "ticker": "JD.",
+    "exchange": "XLON",
+    "sector": "sports_retail",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "JD Sports",
+    "trends_keywords": [
+      "Nike",
+      "Adidas",
+      "The North Face",
+      "New Balance"
+    ],
+    "search_keywords": [
+      "JD Sports",
+      "Size?",
+      "Finish Line"
+    ],
+    "related_markets": [
+      "jd-sports-european-sneaker-retail-ma_deals",
+      "adidas-football_overview"
+    ],
+    "insider_screener_slug": "jd-sports-fashion-plc",
+    "competitors": [
+      {
+        "ticker": "FL",
+        "exchange": "XNYS",
+        "name": "Foot Locker"
+      },
+      {
+        "ticker": "DKS",
+        "exchange": "XNYS",
+        "name": "Dick's Sporting Goods"
+      },
+      {
+        "ticker": "ZAL",
+        "exchange": "XETR",
+        "name": "Zalando"
+      }
+    ]
+  },
+  {
+    "name": "Verisure Securitas Direct",
+    "ticker": "VSURE",
+    "exchange": "XSTO",
+    "sector": "security_services",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Verisure",
+    "trends_keywords": [
+      "Verisure",
+      "Sector Alarm",
+      "Securitas",
+      "Ajax Systems",
+      "Prosegur"
+    ],
+    "search_keywords": [
+      "Verisure",
+      "Securitas Direct"
+    ],
+    "insider_screener_slug": "verisure-plc",
+    "competitors": [
+      {
+        "ticker": "SECU-B",
+        "exchange": "XSTO",
+        "name": "Securitas"
+      },
+      {
+        "ticker": "PSG",
+        "exchange": "BMEX",
+        "name": "Prosegur"
+      },
+      {
+        "ticker": "ADT",
+        "exchange": "XNYS",
+        "name": "ADT"
+      }
+    ]
+  },
+  {
+    "name": "Floor & Decor Holdings Inc.",
+    "ticker": "FND",
+    "exchange": "XNYS",
+    "sector": "home_improvement",
+    "list": "portfolio",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Floor and Decor",
+    "trends_keywords": [
+      "Floor and Decor",
+      "Home Depot",
+      "Lowe's",
+      "Tile Shop",
+      "Mohawk"
+    ],
+    "insider_screener_slug": "floor-decor-holdings-inc",
+    "competitors": [
+      {
+        "ticker": "HD",
+        "exchange": "XNYS",
+        "name": "Home Depot"
+      },
+      {
+        "ticker": "LOW",
+        "exchange": "XNYS",
+        "name": "Lowe's"
+      },
+      {
+        "ticker": "MHK",
+        "exchange": "XNYS",
+        "name": "Mohawk Industries"
+      }
+    ]
+  },
+  {
+    "name": "Spirax Group PLC",
+    "ticker": "SPX",
+    "exchange": "XLON",
+    "sector": "industrial_engineering",
+    "list": "watchlist",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Spirax-Sarco",
+      "Watson-Marlow",
+      "Chromalox"
+    ],
+    "insider_screener_slug": "spirax-group-plc",
+    "competitors": [
+      {
+        "ticker": "IMI",
+        "exchange": "XLON",
+        "name": "IMI PLC"
+      },
+      {
+        "ticker": "WTS",
+        "exchange": "XNYS",
+        "name": "Watts Water"
+      },
+      {
+        "ticker": "AALB",
+        "exchange": "XAMS",
+        "name": "Aalberts"
+      }
+    ]
+  },
+  {
+    "name": "Nitori Holdings Co., Ltd.",
+    "ticker": "9843",
+    "exchange": "XTKS",
+    "sector": "home_furnishings",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Nitori",
+    "trends_keywords": [
+      "Nitori",
+      "IKEA Japan",
+      "Muji",
+      "Seria",
+      "Daiso"
+    ],
+    "search_keywords": [
+      "Nitori Holdings",
+      "Nitori furniture",
+      "Aki-Home"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "9983",
+        "exchange": "XTKS",
+        "name": "Fast Retailing"
+      },
+      {
+        "ticker": "7453",
+        "exchange": "XTKS",
+        "name": "Ryohin Keikaku"
+      },
+      {
+        "ticker": "8227",
+        "exchange": "XTKS",
+        "name": "Shimamura"
+      }
+    ]
+  },
+  {
+    "name": "Adidas AG",
+    "ticker": "ADS",
+    "exchange": "XETR",
+    "sector": "sportswear",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Adidas",
+    "trends_keywords": [
+      "Adidas",
+      "Yeezy",
+      "Stan Smith",
+      "Adidas Gazelle"
+    ],
+    "related_markets": [
+      "jd-sports-european-sneaker-retail-ma_deals",
+      "adidas-football_overview"
+    ],
+    "insider_screener_slug": "adidas-ag",
+    "competitors": [
+      {
+        "ticker": "NKE",
+        "exchange": "XNYS",
+        "name": "Nike"
+      },
+      {
+        "ticker": "PUM",
+        "exchange": "XETR",
+        "name": "Puma"
+      },
+      {
+        "ticker": "UAA",
+        "exchange": "XNYS",
+        "name": "Under Armour"
+      }
+    ]
+  },
+  {
+    "name": "Stanley Black & Decker Inc.",
+    "ticker": "SWK",
+    "exchange": "XNYS",
+    "sector": "tools_industrials",
+    "list": "watchlist",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Stanley Black Decker",
+      "DeWalt",
+      "Craftsman tools",
+      "Black+Decker"
+    ],
+    "insider_screener_slug": "stanley-black-decker-inc",
+    "competitors": [
+      {
+        "ticker": "ITW",
+        "exchange": "XNYS",
+        "name": "Illinois Tool Works"
+      },
+      {
+        "ticker": "SNA",
+        "exchange": "XNYS",
+        "name": "Snap-on"
+      },
+      {
+        "ticker": "HUSQ-B",
+        "exchange": "XSTO",
+        "name": "Husqvarna"
+      }
+    ]
+  },
+  {
+    "name": "General Mills Inc.",
+    "ticker": "GIS",
+    "exchange": "XNYS",
+    "sector": "food",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "General Mills",
+    "trends_keywords": [
+      "Cheerios",
+      "Haagen-Dazs",
+      "Betty Crocker",
+      "Nature Valley"
+    ],
+    "insider_screener_slug": "general-mills-inc",
+    "competitors": [
+      {
+        "ticker": "K",
+        "exchange": "XNYS",
+        "name": "Kellanova"
+      },
+      {
+        "ticker": "CAG",
+        "exchange": "XNYS",
+        "name": "Conagra"
+      },
+      {
+        "ticker": "MDLZ",
+        "exchange": "XNAS",
+        "name": "Mondelez"
+      }
+    ]
+  },
+  {
+    "name": "Pernod Ricard SA",
+    "ticker": "RI",
+    "exchange": "XPAR",
+    "sector": "beverages",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Pernod Ricard",
+    "trends_keywords": [
+      "Jameson",
+      "Absolut",
+      "Chivas Regal",
+      "Beefeater"
+    ],
+    "insider_screener_slug": "pernod-ricard-sa",
+    "competitors": [
+      {
+        "ticker": "DGE",
+        "exchange": "XLON",
+        "name": "Diageo"
+      },
+      {
+        "ticker": "BF-B",
+        "exchange": "XNYS",
+        "name": "Brown-Forman"
+      },
+      {
+        "ticker": "RCO",
+        "exchange": "XPAR",
+        "name": "Remy Cointreau"
+      }
+    ]
+  },
+  {
+    "name": "Beiersdorf AG",
+    "ticker": "BEI",
+    "exchange": "XETR",
+    "sector": "personal_care",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Beiersdorf",
+    "trends_keywords": [
+      "NIVEA",
+      "Eucerin",
+      "La Prairie",
+      "Hansaplast"
+    ],
+    "insider_screener_slug": "beiersdorf-ag",
+    "competitors": [
+      {
+        "ticker": "OR",
+        "exchange": "XPAR",
+        "name": "L'Oreal"
+      },
+      {
+        "ticker": "HEN3",
+        "exchange": "XETR",
+        "name": "Henkel"
+      },
+      {
+        "ticker": "ULVR",
+        "exchange": "XLON",
+        "name": "Unilever"
+      }
+    ]
+  },
+  {
+    "name": "Pigeon Corporation",
+    "ticker": "7956",
+    "exchange": "XTKS",
+    "sector": "baby_products",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Pigeon baby",
+    "trends_keywords": [
+      "Pigeon baby",
+      "Combi baby",
+      "Dr. Brown's",
+      "Philips Avent",
+      "NUK baby"
+    ],
+    "search_keywords": [
+      "Pigeon Corporation",
+      "Pigeon baby products"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "8113",
+        "exchange": "XTKS",
+        "name": "Unicharm"
+      },
+      {
+        "ticker": "KMB",
+        "exchange": "XNYS",
+        "name": "Kimberly-Clark"
+      },
+      {
+        "ticker": "ESSITY-B",
+        "exchange": "XSTO",
+        "name": "Essity"
+      }
+    ]
+  },
+  {
+    "name": "Shandong Weigao Group",
+    "ticker": "1066",
+    "exchange": "XHKG",
+    "sector": "medical_devices",
+    "list": "watchlist",
+    "tags": [
+      "AI_disruption_watch"
+    ],
+    "search_keywords": [
+      "Weigao Group",
+      "Weigao Medical",
+      "Shandong Weigao"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "300760",
+        "exchange": "XSHE",
+        "name": "Mindray"
+      },
+      {
+        "ticker": "853",
+        "exchange": "XHKG",
+        "name": "Microport"
+      },
+      {
+        "ticker": "7741",
+        "exchange": "XTKS",
+        "name": "Hoya Corp"
+      }
+    ]
+  },
+  {
+    "name": "Heineken NV",
+    "ticker": "HEIA",
+    "exchange": "XAMS",
+    "sector": "beverages",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "google_trends"
+    ],
+    "trends_keyword": "Heineken",
+    "trends_keywords": [
+      "Heineken",
+      "Amstel",
+      "Desperados",
+      "Budweiser",
+      "Carlsberg"
+    ],
+    "insider_screener_slug": "heineken-nv",
+    "competitors": [
+      {
+        "ticker": "ABI",
+        "exchange": "XBRU",
+        "name": "AB InBev"
+      },
+      {
+        "ticker": "CARL-B",
+        "exchange": "XCSE",
+        "name": "Carlsberg"
+      },
+      {
+        "ticker": "TAP",
+        "exchange": "XNYS",
+        "name": "Molson Coors"
+      }
+    ]
+  },
+  {
+    "name": "Dick's Sporting Goods Inc.",
+    "ticker": "DKS",
+    "exchange": "XNYS",
+    "sector": "sports_retail",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Dick's Sporting Goods",
+    "trends_keywords": [
+      "Dick's Sporting Goods",
+      "Academy Sports",
+      "REI",
+      "Bass Pro Shops"
+    ],
+    "insider_screener_slug": "dick-s-sporting-goods-inc",
+    "competitors": [
+      {
+        "ticker": "ASO",
+        "exchange": "XNAS",
+        "name": "Academy Sports"
+      },
+      {
+        "ticker": "FL",
+        "exchange": "XNYS",
+        "name": "Foot Locker"
+      },
+      {
+        "ticker": "HIBB",
+        "exchange": "XNAS",
+        "name": "Hibbett"
+      }
+    ]
+  },
+  {
+    "name": "Shiseido Co., Ltd.",
+    "ticker": "4911",
+    "exchange": "XTKS",
+    "sector": "cosmetics",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Shiseido",
+    "trends_keywords": [
+      "Shiseido",
+      "NARS Cosmetics",
+      "Clé de Peau",
+      "Anessa",
+      "Elixir"
+    ],
+    "search_keywords": [
+      "Shiseido",
+      "Shiseido cosmetics",
+      "NARS",
+      "Clé de Peau Beauté"
+    ],
+    "insider_screener_slug": false,
+    "competitors": [
+      {
+        "ticker": "4452",
+        "exchange": "XTKS",
+        "name": "Kao Corp"
+      },
+      {
+        "ticker": "OR",
+        "exchange": "XPAR",
+        "name": "L'Oreal"
+      },
+      {
+        "ticker": "EL",
+        "exchange": "XNYS",
+        "name": "Estee Lauder"
+      }
+    ]
+  },
+  {
+    "name": "Groupe SEB S.A.",
+    "ticker": "SK",
+    "exchange": "XPAR",
+    "sector": "small_domestic_appliances",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Groupe SEB",
+    "trends_keywords": [
+      "Tefal",
+      "Moulinex",
+      "Krups",
+      "Rowenta"
+    ],
+    "search_keywords": [
+      "Groupe SEB",
+      "Groupe SEB appliances",
+      "Tefal",
+      "Moulinex",
+      "Krups",
+      "Rowenta"
+    ],
+    "related_markets": [
+      "groupe-seb_overview"
+    ],
+    "insider_screener_slug": "seb",
+    "competitors": [
+      {
+        "ticker": "MIDEA",
+        "exchange": "XSHE",
+        "name": "Midea Group"
+      },
+      {
+        "ticker": "DLG",
+        "exchange": "XMIL",
+        "name": "De'Longhi"
+      },
+      {
+        "ticker": "BRG",
+        "exchange": "XASX",
+        "name": "Breville Group"
+      },
+      {
+        "ticker": "SWK",
+        "exchange": "XNYS",
+        "name": "Stanley Black & Decker"
+      }
+    ]
+  },
+  {
+    "name": "Nike, Inc.",
+    "ticker": "NKE",
+    "exchange": "XNYS",
+    "sector": "sportswear",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Nike",
+    "trends_keywords": [
+      "Jordan",
+      "Converse",
+      "Nike Running",
+      "Air Force 1"
+    ],
+    "search_keywords": [
+      "Nike",
+      "Nike sportswear",
+      "Jordan",
+      "Converse",
+      "Nike Running",
+      "Air Force 1"
+    ],
+    "insider_screener_slug": "nike-inc",
+    "related_markets": [],
+    "competitors": [
+      {
+        "ticker": "ADS",
+        "exchange": "XETR",
+        "name": "Adidas"
+      },
+      {
+        "ticker": "ONON",
+        "exchange": "XNYS",
+        "name": "On Holding"
+      },
+      {
+        "ticker": "PUM",
+        "exchange": "XETR",
+        "name": "Puma"
+      },
+      {
+        "ticker": "UAA",
+        "exchange": "XNYS",
+        "name": "Under Armour"
+      }
+    ]
+  },
+  {
+    "name": "The Walt Disney Company",
+    "ticker": "DIS",
+    "exchange": "XNYS",
+    "sector": "entertainment",
+    "list": "watchlist",
+    "tags": [
+      "consumer",
+      "AI_disruption_watch",
+      "google_trends"
+    ],
+    "trends_keyword": "Disney",
+    "trends_keywords": [
+      "Disney+",
+      "Marvel",
+      "Pixar",
+      "Netflix",
+      "HBO"
+    ],
+    "search_keywords": [
+      "Disney",
+      "Disney entertainment",
+      "Walt Disney",
+      "Disney+",
+      "Marvel"
+    ],
+    "related_markets": [
+      "walt-disney_overview"
+    ],
+    "insider_screener_slug": "walt-disney-co",
+    "competitors": [
+      {
+        "ticker": "CMCSA",
+        "exchange": "XNAS",
+        "name": "Comcast"
+      },
+      {
+        "ticker": "NFLX",
+        "exchange": "XNAS",
+        "name": "Netflix"
+      },
+      {
+        "ticker": "WBD",
+        "exchange": "XNAS",
+        "name": "Warner Bros. Discovery"
+      }
+    ]
+  },
+  {
+    "name": "3D Systems Corporation",
+    "ticker": "DDD",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "3M Company",
+    "ticker": "MMM",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "888 Holdings PLC",
+    "ticker": "888",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Anheuser-Busch InBev SA/NV",
+    "ticker": "ABI",
+    "exchange": "XBRU",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "AMC Entertainment Holdings, Inc.",
+    "ticker": "AMC",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Abercrombie & Fitch Co.",
+    "ticker": "ANF",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Accor SA",
+    "ticker": "AC",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Adobe Inc.",
+    "ticker": "ADBE",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Adyen N.V.",
+    "ticker": "ADYEN",
+    "exchange": "XAMS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Airbus SE",
+    "ticker": "AIR",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Alibaba Group Holding Limited",
+    "ticker": "BABA",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Align Technology, Inc.",
+    "ticker": "ALGN",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Alphabet Inc.",
+    "ticker": "GOOG",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Amadeus IT Group S.A.",
+    "ticker": "AMS",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Amazon.com, Inc.",
+    "ticker": "AMZN",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "AMOREPACIFIC Holdings Corp.",
+    "ticker": "00279K",
+    "exchange": "XKRX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Arcos Dorados Holdings Inc.",
+    "ticker": "ARCO",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Arkema S.A.",
+    "ticker": "AKE",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "ARYZTA AG",
+    "ticker": "ARYN",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "ASICS Corporation",
+    "ticker": "7936",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Assa Abloy AB",
+    "ticker": "ASSA-B",
+    "exchange": "XSTO",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Aston Martin Lagonda Global Holdings plc",
+    "ticker": "AML",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Avery Dennison Corporation",
+    "ticker": "AVY",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "International Business Machines Corporation",
+    "ticker": "IBM",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "BAE Systems plc",
+    "ticker": "BA",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Babcock & Wilcox Enterprises, Inc.",
+    "ticker": "BW",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Baidu, Inc.",
+    "ticker": "BIDU",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ball Corporation",
+    "ticker": "BALL",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Bang & Olufsen a/s",
+    "ticker": "BO",
+    "exchange": "XCSE",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Bath & Body Works, Inc.",
+    "ticker": "BBWI",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Bayer Aktiengesellschaft",
+    "ticker": "BAYN",
+    "exchange": "XETR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Becle, S.A.B. de C.V.",
+    "ticker": "CUERVO",
+    "exchange": "XMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Becton Dickinson and Company",
+    "ticker": "BDX",
+    "exchange": "XNYS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Best Buy Co., Inc.",
+    "ticker": "BBY",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Bollore SE",
+    "ticker": "BOL",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "boohoo group plc",
+    "ticker": "BOO",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Bouygues SA",
+    "ticker": "EN",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Brenntag SE",
+    "ticker": "BNR",
+    "exchange": "XETR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Buzzi S.p.A.",
+    "ticker": "BZU",
+    "exchange": "XMIL",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "CAE Inc.",
+    "ticker": "CAE",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "CARLSBERG",
+    "ticker": "CARL",
+    "exchange": "XWAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Caribou Biosciences, Inc.",
+    "ticker": "CRBU",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Canadian National Railway Company",
+    "ticker": "CNI",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Capri Holdings Limited",
+    "ticker": "CPRI",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "CarGurus, Inc.",
+    "ticker": "CARG",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Carrefour SA",
+    "ticker": "CA",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "CECONOMY AG",
+    "ticker": "CEC",
+    "exchange": "XETR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "China Feihe Limited",
+    "ticker": "6186",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Cinemark Holdings, Inc.",
+    "ticker": "CNK",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Cineplex Inc.",
+    "ticker": "CGX",
+    "exchange": "XTSE",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "The Clorox Company",
+    "ticker": "CLX",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Cogna Educacao SA",
+    "ticker": "COGNA3",
+    "exchange": "BVMF",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Convatec Group PLC",
+    "ticker": "CTEC",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Corpay, Inc.",
+    "ticker": "CPAY",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "CoStar Group, Inc.",
+    "ticker": "CSGP",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false,
+    "related_markets": [
+      "costar-group_company"
+    ]
+  },
+  {
+    "name": "Currys plc",
+    "ticker": "CURY",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Pan Pacific International Holdings Corp",
+    "ticker": "7532",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Daikin Industries,Ltd.",
+    "ticker": "6367",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Danaher Corporation",
+    "ticker": "DHR",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Danone S.A.",
+    "ticker": "BN",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "DaVita Inc.",
+    "ticker": "DVA",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "DENTSPLY SIRONA Inc.",
+    "ticker": "XRAY",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Quest Diagnostics Incorporated",
+    "ticker": "DGX",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Warner Bros. Discovery, Inc.",
+    "ticker": "WBD",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Dollar General Corporation",
+    "ticker": "DG",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Dollar Tree, Inc.",
+    "ticker": "DLTR",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "DoorDash, Inc.",
+    "ticker": "DASH",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Avolta AG",
+    "ticker": "AVOL",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "e.l.f. Beauty Inc",
+    "ticker": "ELF",
+    "exchange": "XNYS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Entain Plc",
+    "ticker": "ENT",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ecolab Inc.",
+    "ticker": "ECL",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Edwards Lifesciences Corporation",
+    "ticker": "EW",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Elanco Animal Health Incorporated",
+    "ticker": "ELAN",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Electrolux Professional AB (publ)",
+    "ticker": "EPRO-B",
+    "exchange": "XSTO",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Elior Group SA",
+    "ticker": "ELIOR",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Elis SA",
+    "ticker": "ELIS",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Envista Holdings Corporation",
+    "ticker": "NVST",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "The Estée Lauder Companies Inc.",
+    "ticker": "EL",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Eurofins Scientific SE",
+    "ticker": "ERF",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Experian plc",
+    "ticker": "EXPN",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Fast Retailing Co., Ltd.",
+    "ticker": "6288",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ferguson Enterprises Inc.",
+    "ticker": "FERG",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Five Below, Inc.",
+    "ticker": "FIVE",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Fleury Michon SA",
+    "ticker": "ALFLE",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Fluidra, S.A.",
+    "ticker": "FDR",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Fnac Darty SA",
+    "ticker": "FNAC",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Fresenius SE & Co. KGaA",
+    "ticker": "FRE",
+    "exchange": "XETR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Fresenius Medical Care AG",
+    "ticker": "FMS",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Frontdoor, Inc.",
+    "ticker": "FTDR",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "GE HealthCare Technologies Inc.",
+    "ticker": "GEHC",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "GN Store Nord A/S",
+    "ticker": "GN",
+    "exchange": "XCSE",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Glanbia plc",
+    "ticker": "GL9",
+    "exchange": "XDUB",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Goodbaby International Holdings Limited",
+    "ticker": "1086",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Grifols, S.A.",
+    "ticker": "GRFS",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Harley-Davidson, Inc.",
+    "ticker": "HOG",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Heidelberg Materials AG",
+    "ticker": "HEI",
+    "exchange": "XETR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Hengan International Group Company Limited",
+    "ticker": "1044",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Henkel AG & Co. KGaA",
+    "ticker": "HEN3",
+    "exchange": "XETR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Henry Schein, Inc.",
+    "ticker": "HSIC",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Hexcel Corporation",
+    "ticker": "HXL",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Hikari Tsushin Inc",
+    "ticker": "9477",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Holcim AG",
+    "ticker": "HOLN",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "H World Group Limited",
+    "ticker": "HTHT",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Hypera S.A.",
+    "ticker": "HYPE3",
+    "exchange": "BVMF",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "International Flavors & Fragrances Inc.",
+    "ticker": "IFF",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Canadian Imperial Bank of Commerce",
+    "ticker": "CM",
+    "exchange": "XTSE",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Indra Sistemas, S.A.",
+    "ticker": "IDR",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Infomart Corporation",
+    "ticker": "2492",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ipsen S.A.",
+    "ticker": "IPN",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ipsos SA",
+    "ticker": "IPS",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "JD.com, Inc.",
+    "ticker": "JD",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Just Eat Takeaway.com N.V.",
+    "ticker": "JET",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Kering SA",
+    "ticker": "KER",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Keyence Corp",
+    "ticker": "6861",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Kinepolis Group NV",
+    "ticker": "KIN",
+    "exchange": "XBRU",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "KION GROUP AG",
+    "ticker": "KGX",
+    "exchange": "XETR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Knorr-Bremse AG",
+    "ticker": "KBX",
+    "exchange": "XETR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Konecranes Oyj",
+    "ticker": "KCR",
+    "exchange": "XHEL",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "The Kraft Heinz Company",
+    "ticker": "KHC",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Kyndryl Holdings, Inc.",
+    "ticker": "KD",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Lifetime Brands, Inc.",
+    "ticker": "LCUT",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
+    "ticker": "MC",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Lee & Man Paper Manufacturing Limited",
+    "ticker": "2314",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "LendingTree, Inc.",
+    "ticker": "TREE",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Levi Strauss & Co.",
+    "ticker": "LEVI",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Logista SA",
+    "ticker": "LOG",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Lonza Group AG",
+    "ticker": "LONN",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "lululemon athletica inc.",
+    "ticker": "LULU",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "A.P. Moller - Maersk A/S",
+    "ticker": "MAERSK-B",
+    "exchange": "XCSE",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Mapfre S.A.",
+    "ticker": "MAP",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Mattel, Inc.",
+    "ticker": "MAT",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "McKesson Corporation",
+    "ticker": "MCK",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Melia Hotels International SA",
+    "ticker": "MEL",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Mercari Inc",
+    "ticker": "4385",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Meta Platforms, Inc.",
+    "ticker": "META",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "MINISO Group Holding Limited",
+    "ticker": "MNSO",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "MISUMI Group Inc",
+    "ticker": "9962",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Mohawk Industries, Inc.",
+    "ticker": "MHK",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "momo.com Inc.",
+    "ticker": "8454",
+    "exchange": "XTAI",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Monro, Inc.",
+    "ticker": "MNRO",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Moody's Corporation",
+    "ticker": "MCO",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "NOV Inc.",
+    "ticker": "NOV",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Nestlé S.A.",
+    "ticker": "NESN",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Newell Brands Inc.",
+    "ticker": "NWL",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Newmont Corporation",
+    "ticker": "NEM",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "NEXT plc",
+    "ticker": "NXT",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Nippon Paint Holdings Co., Ltd.",
+    "ticker": "4612",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ollie's Bargain Outlet Holdings, Inc.",
+    "ticker": "OLLI",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Orion Corp",
+    "ticker": "ORNBV",
+    "exchange": "XHEL",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Orpea SA",
+    "ticker": "ORP",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Pearson plc",
+    "ticker": "PSON",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Pepco Group NV",
+    "ticker": "PCO",
+    "exchange": "XWAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Petco Health and Wellness Company, Inc.",
+    "ticker": "WOOF",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Philip Morris International Inc.",
+    "ticker": "PM",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Playtech plc",
+    "ticker": "PTEC",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Pluxee NV",
+    "ticker": "PLX",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Prosegur Compania de Seguridad SA",
+    "ticker": "PSG",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Prosegur Cash SA",
+    "ticker": "CASH",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "RHI Magnesita N.V.",
+    "ticker": "RHIM",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Reckitt Benckiser Group plc",
+    "ticker": "RKT",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Remy Cointreau SA",
+    "ticker": "RCO",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Rentokil Initial plc",
+    "ticker": "RTO",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Rexel S.A.",
+    "ticker": "RXL",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Roche Holding AG",
+    "ticker": "ROG",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ryanair Holdings plc",
+    "ticker": "RYA",
+    "exchange": "XDUB",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ryohin Keikaku Co Ltd",
+    "ticker": "7453",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "S&P Global Inc.",
+    "ticker": "SPGI",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "SIG Group Co., Ltd.",
+    "ticker": "4386",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "SS&C Technologies Holdings, Inc.",
+    "ticker": "SSNC",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Sabre Corporation",
+    "ticker": "SABR",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Compagnie de Saint-Gobain S.A.",
+    "ticker": "SGO",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Salesforce, Inc.",
+    "ticker": "CRM",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Samsonite Group S.A.",
+    "ticker": "1910",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "SLB N.V.",
+    "ticker": "SLB",
+    "exchange": "XNYS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Securitas AB (publ)",
+    "ticker": "SECU-B",
+    "exchange": "XSTO",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Sercomm Corporation",
+    "ticker": "5388",
+    "exchange": "XTAI",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Signet Jewelers Limited",
+    "ticker": "SIG",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Smith & Nephew plc",
+    "ticker": "SNN",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Sodexo SA",
+    "ticker": "SW",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "SolarEdge Technologies, Inc.",
+    "ticker": "SEDG",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Spotify Technology S.A.",
+    "ticker": "SPOT",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Stora Enso Oyj",
+    "ticker": "STERV",
+    "exchange": "XHEL",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Straumann Holding AG",
+    "ticker": "STMN",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Food & Life Companies Ltd",
+    "ticker": "3563",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Suzano S.A.",
+    "ticker": "SUZ",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "The Swatch Group AG",
+    "ticker": "UHR",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Tapestry, Inc.",
+    "ticker": "TPR",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Target Corporation",
+    "ticker": "TGT",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Teleperformance SE",
+    "ticker": "TEP",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Tencent Holdings Limited",
+    "ticker": "0700",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Terumo Corporation",
+    "ticker": "4543",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Teva Pharmaceutical Industries Limited",
+    "ticker": "TEVA",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Thales S.A.",
+    "ticker": "HO",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Tingyi (Cayman Islands) Holding Corp",
+    "ticker": "322",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Titan Cement International S.A.",
+    "ticker": "TITK",
+    "exchange": "XATH",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Tradeweb Markets Inc.",
+    "ticker": "TW",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Tree House Education & Accessories Limited",
+    "ticker": "TREEHOUSE",
+    "exchange": "XBOM",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Twilio Inc.",
+    "ticker": "TWLO",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "UCB SA",
+    "ticker": "UCB",
+    "exchange": "XBRU",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Universal Music Group N.V.",
+    "ticker": "UMG",
+    "exchange": "XAMS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Uber Technologies, Inc.",
+    "ticker": "UBER",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ülker Bisküvi Sanayi A.S.",
+    "ticker": "ULKER",
+    "exchange": "XIST",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Ulta Beauty, Inc.",
+    "ticker": "ULTA",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Unilever PLC",
+    "ticker": "UL",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "UnitedHealth Group Incorporated",
+    "ticker": "UNH",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Upstart Holdings, Inc.",
+    "ticker": "UPST",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "V.F. Corporation",
+    "ticker": "VFC",
+    "exchange": "XNYS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Valmet Oyj",
+    "ticker": "VALMT",
+    "exchange": "XHEL",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+    "ticker": "VAMO3",
+    "exchange": "BVMF",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Veolia Environnement SA",
+    "ticker": "VIE",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Verallia Société Anonyme",
+    "ticker": "VRLA",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Viatris Inc.",
+    "ticker": "VTRS",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Vicat S.A.",
+    "ticker": "VCT",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Victoria PLC",
+    "ticker": "VCP",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Vipshop Holdings Limited",
+    "ticker": "VIPS",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Viscofan, S.A.",
+    "ticker": "VIS",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Vivendi SE",
+    "ticker": "VIV",
+    "exchange": "XPAR",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "WEX Inc.",
+    "ticker": "WEX",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Winners Elec Co., Ltd.",
+    "ticker": "479960",
+    "exchange": "XKOS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Want Want China Holdings Ltd",
+    "ticker": "151",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Wartsila Corp Oyj",
+    "ticker": "WRT1V",
+    "exchange": "XHEL",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Wayfair Inc.",
+    "ticker": "W",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Weibo Corporation",
+    "ticker": "WB",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "West Pharmaceutical Services, Inc.",
+    "ticker": "WST",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Wizz Air Holdings Plc",
+    "ticker": "WIZZ",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Workman Co Ltd",
+    "ticker": "7564",
+    "exchange": "XTKS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "YETI Holdings, Inc.",
+    "ticker": "YETI",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Zenvia Inc",
+    "ticker": "ZENV",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "American Eagle Outfitters, Inc.",
+    "ticker": "AEO",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Advance Auto Parts Inc",
+    "ticker": "AAP",
+    "exchange": "XNYS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Armstrong World Industries",
+    "ticker": "AWI",
+    "exchange": "XNYS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "BICO Group AB (publ)",
+    "ticker": "BICO",
+    "exchange": "XSTO",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Bilibili Inc",
+    "ticker": "BILI",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Compagnie Financière Richemont",
+    "ticker": "CFR",
+    "exchange": "XSWX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Novonesis (Chr. Hansen)",
+    "ticker": "NSIS-B",
+    "exchange": "XCSE",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Gestamp Automocion SA",
+    "ticker": "GEST",
+    "exchange": "BMEX",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Greatview Aseptic Packaging",
+    "ticker": "0468",
+    "exchange": "XHKG",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "J D Wetherspoon plc",
+    "ticker": "JDW",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Mitchells & Butlers plc",
+    "ticker": "MAB",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Smurfit WestRock plc",
+    "ticker": "SW",
+    "exchange": "XNYS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Stericycle Inc",
+    "ticker": "SRCL",
+    "exchange": "XNAS",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Watches of Switzerland Group",
+    "ticker": "WOSG",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "Associated British Foods plc",
+    "ticker": "ABF",
+    "exchange": "XLON",
+    "list": "universe",
+    "insider_screener_slug": false
+  },
+  {
+    "name": "IMCD NV",
+    "ticker": "IMCD",
+    "exchange": "XAMS",
+    "sector": "Specialty Chemicals Distribution",
+    "list": "universe",
+    "tags": [
+      "auto_added_screener"
+    ]
+  },
+  {
+    "name": "Indutrade AB",
+    "ticker": "INDT",
+    "exchange": "XNAS",
+    "sector": "Industrial Niche Distribution",
+    "list": "universe",
+    "tags": [
+      "auto_added_screener"
+    ]
+  },
+  {
+    "name": "Fair Isaac Corporation (FICO)",
+    "ticker": "FICO",
+    "exchange": "XNAS",
+    "sector": "Financial Technology / Analytics",
+    "list": "universe",
+    "tags": [
+      "auto_added_screener"
+    ]
+  },
+  {
+    "name": "Idexx Laboratories Inc.",
+    "ticker": "IDXX",
+    "exchange": "XNAS",
+    "sector": "Veterinary Diagnostics",
+    "list": "universe",
+    "tags": [
+      "auto_added_screener"
+    ]
+  },
+  {
+    "name": "Topicus.com Inc.",
+    "ticker": "TOI",
+    "exchange": "XNAS",
+    "sector": "Vertical Market Software",
+    "list": "universe",
+    "tags": [
+      "auto_added_screener"
+    ]
+  },
+  {
+    "name": "Verisk Analytics Inc.",
+    "ticker": "VRSK",
+    "exchange": "XNAS",
+    "sector": "Data & Analytics",
+    "list": "universe",
+    "tags": [
+      "auto_added_screener"
+    ]
+  },
+  {
+    "name": "Pro Medicus Limited",
+    "ticker": "PME",
+    "exchange": "XASX",
+    "sector": "Healthcare IT / Medical Imaging",
+    "list": "universe",
+    "tags": [
+      "auto_added_screener"
+    ]
+  },
+  {
+    "name": "Shin-Etsu Chemical Co. Ltd.",
+    "ticker": "4063",
+    "exchange": "XTKS",
+    "sector": "Specialty Chemicals / Semiconductors",
+    "list": "universe",
+    "tags": [
+      "auto_added_screener"
+    ]
+  }
+]
