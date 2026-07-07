@@ -1,0 +1,8 @@
+.env
+*.xlsx
+output/
+__pycache__/
+*.pyc
+universe_cache.json
+pending_universe.json
+ev_history.json
